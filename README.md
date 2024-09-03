@@ -11,7 +11,6 @@
     - [10. Pull](#10-pull)
     - [11. Git clone](#11-git-clone)
     - [12. The .gitignore file](#12-the-gitignore-file)
-    - [13 Forking](#13-forking)
  - [Git repository user interface features](#git-repository-user-interface-features)
 
   - [Git Basics Exercises](#git-basics-exercises)
@@ -137,8 +136,6 @@ personal-data
 example.txt
 sensitive-info.txt
 ```
-### 13. Forking
-A fork is a copy of a repository that you manage. Forks let you make changes to a project without affecting the original repository. You can fetch updates from or submit changes to the original repository with pull requests.
 
 ## Git repository user interface features
 Learn about the features of your GitHub account and the accessible repositories.
