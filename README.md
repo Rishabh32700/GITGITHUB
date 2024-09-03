@@ -120,11 +120,11 @@ git pull 'remote_name' 'branch_name'.
 git clone is primarily used to point to an existing repo and make a clone or copy of that repo at in a new directory, at another location. The original repository can be located on the local filesystem or on remote machine accessible supported protocols. The git clone command copies an existing Git repository.
 
 ```sh
-Shreya@DESKTOP-VSQ7BAB MINGW64 ~ (master)
+Rishabh@DESKTOP-VSQ7BAB MINGW64 ~ (master)
 $ cd Desktop/
 
-Shreya@DESKTOP-VSQ7BAB MINGW64 ~/Desktop (master)
-$ git clone https://github.com/geeksterin/WebCurriculum
+Rishabh@DESKTOP-VSQ7BAB MINGW64 ~/Desktop (master)
+$ git clone https://github.com/letsUpgrade/WebCurriculum
 ```
 ### 12. The .gitignore file
 The .gitignore file is a text file that tells Git which files or folders to ignore in a project.
@@ -181,7 +181,7 @@ Hosted website directly from your GitHub repository. You can edit, push your cha
 Give yourself a pat on the back if you've completed this far🎉.
 
 
-You have successfully finished Geekster's GitHub course.
+You have successfully finished letsUpgrade's GitHub course.
 
 
 Now you have a fair knowledge of git and GitHub, don't forget to get your hands dirty with these commands.
