@@ -140,13 +140,13 @@ sensitive-info.txt
 ## Git repository user interface features
 Learn about the features of your GitHub account and the accessible repositories.
 Account and repository settings are available in Git. Explore the features that are offered.
-![](image/Git-repository.png)
+![](./Git-repository.png)
 
 
 ## Github pages
 Hosted website directly from your GitHub repository. You can edit, push your changes and make it live.
 
-![](./image/1_ztYDE6j3QQ9_lEneHt0PBg.gif)
+![](./1_ztYDE6j3QQ9_lEneHt0PBg.gif)
 
 
 
